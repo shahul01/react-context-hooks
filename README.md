@@ -12,6 +12,7 @@ TOC
 06. Updating Context Data.
 07. Creating Multiple Contexts.
 08. Consuming Multiple Contexts.
+
 09. Intro to Hooks.
 10. useState Hook.
 11. useState with Forms.
@@ -22,6 +23,7 @@ TOC
 16. Reading List Project (part 1).
 17. Reading List App (part 2).
 18. Reading List App (part 3).
+
 19. Reducers, Actions & State.
 20. Adding a Reducer.
 21. Adding Local Storage.
